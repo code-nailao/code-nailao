@@ -5,12 +5,8 @@
 
 - 🇨🇳  Chinese
 - 🧑🏻‍💻 Programmer
-- - :pencil: 博客：[CSDN💬](https://blog.csdn.net/qq_45651302) - 足够硬核！
-
-- :computer: [Blog Site](https://blog.csdn.net/qq_45651302)
-- 📜 ![Jetbrains Toolbox](https://img.shields.io/badge/Jetbrains-Toolbox-007ACC?style=flat-square&logo=intellij-idea&logoColor=ffffff) ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff) 
+- :pencil: 博客：[CSDN💬](https://blog.csdn.net/qq_45651302) - 足够硬核！
 - 💪 Just Do It!
-- ......(on building)
 
 
 ### ✨ 我的技能(my skills)   
@@ -22,6 +18,7 @@
 ![](https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff)
 ![](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=Linux&logoColor=fff)
 ![](https://img.shields.io/badge/-Git-E84E31?style=flat-square&logo=Git&logoColor=fff)
+![Jetbrains Toolbox](https://img.shields.io/badge/Jetbrains-Toolbox-007ACC?style=flat-square&logo=intellij-idea&logoColor=ffffff) ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff) 
 
 
 ## 今年汇总(This year's summary) ✨
