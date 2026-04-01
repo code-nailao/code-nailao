@@ -4,7 +4,7 @@
 **Personal Tags**
 
 - 🇨🇳  Chinese
-- 🧑🏻‍💻 Programmer
+- 🧑🏻‍💻 Programmer, AI Native
 - :pencil: 博客：[CSDN💬](https://blog.csdn.net/qq_45651302) - 足够硬核！
 - 💪 Just Do It!
 
